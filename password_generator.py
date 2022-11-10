@@ -13,4 +13,4 @@ while 1:
         print("Here is your password : ", password)
 
 
-#this code taught me for loops in python6
+#this code taught me for loops in python
